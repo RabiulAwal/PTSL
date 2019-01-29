@@ -1,1 +1,2 @@
-# PTSL
+PTSL 
+Primetech Solutions Ltd
